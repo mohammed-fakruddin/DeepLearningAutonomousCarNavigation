@@ -5,4 +5,7 @@ After finishing Deep Learning course at Harvard Extension School in May 2019, I 
 
 The objective of this challenge is to: Build a Convolution Neural Network model from scratch which identifies the lane direction (forward, left and right) and deploy the model onto Raspberry PI board which drives the Robotic car.
 
+#YouTube Link
+https://youtu.be/E3X2OTYlC0A
+
 # One Pager Summary
