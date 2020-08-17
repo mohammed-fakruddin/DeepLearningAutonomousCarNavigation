@@ -9,3 +9,8 @@ The objective of this challenge is to: Build a Convolution Neural Network model 
 https://youtu.be/E3X2OTYlC0A
 
 # One Pager Summary
+https://github.com/mohammed-fakruddin/DeepLearningAutonomousCarNavigation/blob/master/documents/DeepLearningTrainedRobotCar.pdf
+# Presentation
+https://github.com/mohammed-fakruddin/DeepLearningAutonomousCarNavigation/blob/master/documents/AutonomousCar_Slides.pptx
+# Video Link
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3X2OTYlC0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
